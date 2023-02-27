@@ -113,6 +113,10 @@ On the test set we are able to obtain a satisfactory accuracy of 81% using Embed
 <a href="https://github.com/dotmat3" target="_blank">
   <img src="https://img.shields.io/badge/Profile-Matteo%20Orsini-green?style=for-the-badge&logo=github&labelColor=blue&color=white">
 </a>
+<br /><br />
+<a href="https://github.com/ErVincit" target="_blank">
+  <img src="https://img.shields.io/badge/Profile-Emanuele%20Vincitorio-green?style=for-the-badge&logo=github&labelColor=blue&color=white">
+</a>
 
 ## Technologies
 
